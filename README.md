@@ -1,0 +1,2 @@
+# cycle-game
+avoid players
